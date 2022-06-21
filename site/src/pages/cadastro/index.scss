@@ -1,0 +1,218 @@
+.cadastro{
+        margin-left: -10px;
+        margin-right: -10px;
+        margin-top: -34px;
+        margin-bottom: -10px;
+        background-color: #000;
+        max-height: 100%;
+        width: 1350px;
+    .botao-2{
+            font-family: 'Montserrat', sans-serif;
+            display:inline-block;
+            padding:8px 16px;
+            vertical-align: middle;
+            overflow: hidden;
+            text-decoration:none;
+            color:inherit;
+            background-color:inherit;
+            text-align: center;
+            cursor: pointer;
+            white-space:nowrap;
+            background-color:#3F3F3F;
+            color:rgb(243, 243, 243);
+            border-radius: 15px;
+        }
+    .botão{
+        font-size: 20px;
+        margin:35px 175px;
+        clear: both;
+        font-family: 'Montserrat', sans-serif;
+        display:inline-block;
+        padding:8px 16px;
+        vertical-align: middle;
+        overflow: hidden;
+        text-decoration:none;
+        color:inherit;
+        background-color:inherit;
+        text-align: center;
+        cursor: pointer;
+        white-space:nowrap;
+        background-color:#3F3F3F;
+        color:rgb(243, 243, 243);
+        border-radius: 25px;
+    }
+    p {
+        font-family: 'Montserrat', sans-serif;
+        color: rgb(252, 252, 252);
+    }
+    h1 { text-align: center ;
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 50px;   
+        color:#EBC42A;
+    }
+    .campo{
+        background-color: #3F3F3F;
+        color: black;
+        border:1px solid #3F3F3F;
+        border-radius:12px ;
+        padding:10px 400px ;
+        justify-content: space-around;
+        font-size: 18px;
+        word-spacing: 50em;
+        text-align: center;
+        margin-left:140px ;
+        color: white;
+    }
+    .campo-2{
+        margin-top:0px ;
+        background-color: #3F3F3F;
+        color: black;
+        border:1px solid #3F3F3F;
+        border-radius:12px ;
+        padding:10px 80px ;
+        justify-content: space-around;
+        font-size: 18px;
+        word-spacing: 10em;
+        text-align: center;
+        margin-left: 140px;
+        color: white;
+       margin-left: 4.3em;
+    }
+    .campo-3{
+        background-color: #3F3F3F;
+        border:1px solid #3F3F3F;
+        border-radius:12px ;
+        padding:40px 20px ;
+        justify-content: space-around;
+        font-size: 18px;
+        word-spacing: -70em;
+        text-align: center;
+        margin:0px 140px; 
+        margin-left: px;
+        align-items: center;
+        color: white;
+    }
+    .campo-4{
+        background-color: #3F3F3F;
+        color: black;
+        border:1px solid #3F3F3F;
+        border-radius:12px ;
+        padding:10px 80px ;
+        justify-content: space-around;
+        font-size: 18px;
+        word-spacing: -70em;
+        text-align: center;
+        margin-left: 141px;
+        color: white;
+    }
+    .campo-5{
+        background-color: #3F3F3F;
+        color: black;
+        border:1px solid #3F3F3F;
+        border-radius:12px ;
+        padding:40px 2px ;
+        justify-content: space-around;
+        font-size: 14px;
+        text-align: center;
+        margin:0px 55px 0px 0px; 
+        color: white;
+    }
+    
+    .campo-10{
+        background-color: #3F3F3F;
+        color: black;
+        border:1px solid #3F3F3F;
+        border-radius:12px ;
+        padding:40px 2px ;
+        font-size: 14px;
+        word-spacing: -70em;
+        margin:0px 50px; 
+        color: white;
+        width: 17em;
+        
+    }
+    
+    .campo-6{
+        background-color: #3F3F3F;
+        color: black;
+        border:1px solid #3F3F3F;
+        border-radius:12px ;
+        padding:40px 20px ;
+        justify-content: space-around;
+        font-size: 18px;
+        text-align: center;
+        margin:0px 68px; 
+        align-items: center;
+        color: white;
+    }
+    
+    .campo-7{
+        margin-left: 8em;
+        background-color: #3F3F3F;
+        color: #fff;
+        border:1px solid #3F3F3F;
+        border-radius:12px ;
+        padding:10px 80px ;
+        justify-content: space-around;
+        font-size: 18px;
+        text-align: center;
+    }
+    
+    .textarea { 
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-left: 2.7em ;
+    }
+    a:hover{
+        border:  1px solid #EBC42A;
+        color :#EBC42A;
+        box-shadow:0px 0px 35px #DEFF1C 0px 0px 15px #EFDD3E;
+        text-shadow: 0px 0px 10px #DEFF1C 0px 0px 3px #DEFF1C;
+    }
+    input:hover{
+        border:  1px solid #EBC42A;
+    }
+    textarea:hover{
+        border:  1px solid #EBC42A;
+    }
+    .contato-1{
+        display: flex;
+        justify-content: space-around;
+        margin-left: -17.3em;
+    }
+    .contato-2{
+        display: flex;
+        justify-content: space-around;
+        margin-left: 2.5px;
+    }
+    .contato-3{
+        display: flex;
+        justify-content: space-around;
+        margin-left: -2.07em;
+    }
+    .contato-4{
+        display: flex;
+        justify-content: space-around;
+        margin-left: 20px;
+    }
+    .contato-5{
+        display: flex;
+        justify-content: space-around;
+    }
+    .espaço0{
+        margin-left: 150px;
+    }
+    .espaço2{
+        margin-left: 70px;
+    }
+    .espaço1{
+        margin-left: -185px;
+    }
+    .espaço3{
+        margin-left: 49px;
+    }
+    .espaço4{
+        margin-left: -168px;
+    }
+}
