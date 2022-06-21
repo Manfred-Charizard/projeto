@@ -20,7 +20,7 @@ export default function Index() {
     const [Carregando, setCarregando] = useState(false);
 
     const navigate = useNavigate();
-    const ref = useRef;
+    const ref = useRef();
 
 
     async function entrarClick() {
